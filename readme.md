@@ -4,3 +4,4 @@ A game that takes you back into the nostalgia of the days where we had this clas
 A computerised version with instant score tracking system to keep a check of who's winning. 
 
 ### Beat the Computer
+[Live link](https://stonepaperscissor.vercel.app/)
